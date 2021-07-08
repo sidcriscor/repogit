@@ -1,0 +1,2 @@
+Este es el fichero A
+Se modifica este fichero
